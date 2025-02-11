@@ -57,3 +57,5 @@ File Formats:
   CSV: Used to store the raw data.
   PNG: Used for saving the chart image.
   PDF: Used for creating the final report.
+
+  blob:https://github.com/a0bcdddf-34dd-4270-a7a2-56ea22fb8193
